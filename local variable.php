@@ -9,7 +9,6 @@
   echo "<br>Your email is :" . $email;
   echo "<br>Your age is : " . $age;
 
-
   echo "<br><br><br>your name " . $name . " and email " . $email . " and age " . $age ;
 
 
