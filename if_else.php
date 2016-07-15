@@ -10,7 +10,7 @@
      
        <lable>Enter a Number<input type="text" name ="number"  ></lable><br>
        
-       <input type="submit" name="submit" value="Sign up">     
+       <input type="submit" name="submit" value="check">     
      
     </form>
 </body>
