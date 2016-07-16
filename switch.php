@@ -21,22 +21,22 @@
 <?php
    if(isset($_POST['submit'])){
      switch ($_POST['character']) {
-         case "a" or "A":
+         case "a" :
            echo "A For Apple";  
          break;
-           case "b" or "B":
+           case "b" :
            echo "B For Banana";  
          break;
-           case "c" or "C":
+           case "c" :
            echo "C For Cat";  
          break;
-           case "d" or "D":
+           case "d" :
            echo "D For Dimond";  
          break;
-           case "e" or "E":
+           case "e":
            echo "E For Elephant";  
          break;
-           case "f" or "F":
+           case "f" :
            echo "F For Fish";  
          break;
        
